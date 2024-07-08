@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning for Bachelor of Information Technology, Major in Artificial Intelligence 
 
-- 👯 I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the data science terminology. Interested in all of AI/Data Position
+- 👯 I try to sharpen my knowledge by reading technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the data science terminology. Interested in all of AI/Data Intern Position
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/wise-warlock?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
